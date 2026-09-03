@@ -1,6 +1,7 @@
 # Retail-Sales-SQL-Analysis
 Retail Sales Data Analysis using SQL — analyzed retail transaction data to uncover sales trends, customer behavior, category performance, and profitability using data cleaning, aggregation, CTEs, subqueries, and window functions.
-📖 My Learning Journey
+
+# My Learning Journey
 
 This project started as a way for me to strengthen my SQL skills through hands-on practice.
 
@@ -10,21 +11,13 @@ The initial exercise contained 10 SQL questions designed to help practice fundam
 
 After completing the initial exercises, I wanted to go beyond the questions provided and challenge myself with additional analysis. I used the available information about the dataset to create additional SQL practice questions with the help of ChatGPT.
 
-I then solved 10 additional questions covering areas such as:
-
-Sales analysis
-Category performance
-Customer behavior
-Transaction analysis
-Profitability
-Aggregations and filtering
-Ranking and comparison
+I then solved 10 additional questions .
 
 After completing those questions, I continued practicing with 3 additional customer-focused questions, including analysis of repeat customers, customer purchasing behavior, and customers purchasing across multiple categories.
 
 This project helped me move from simply learning SQL syntax to thinking about how SQL can be used to answer business questions from real-world transactional data.
 
-🎯 What I Practiced
+# What I Practiced
 
 Through this project, I worked with:
 
